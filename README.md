@@ -1,2 +1,2 @@
 # github-demo
-A dimple demo repo.
+A simple demo repo.
